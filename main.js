@@ -70,9 +70,9 @@ dropdownBtn.onmouseover = e => {
 //   dropdownMenu.classList.remove("show");
 // };//);
 
-dropdownBtn.addEventListener("click", function () {
-  alert("bro this is clearly a dropdown what do you expect to happen? dpo uou want me to take you to a whole different page just for 3 links?");
-});
+// dropdownBtn.addEventListener("click", function () {
+//   alert("bro this is clearly a dropdown what do you expect to happen? dpo uou want me to take you to a whole different page just for 3 links?");
+// });
 // document.documentElement.addEventListener("click", function () {
 //   if (dropdownMenu.classList.contains("show")) {
 //     toggleDropdown();
